@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+ruby '2.3.8', :patchlevel => '459'
 gem 'rails', '4.2.0'
 gem 'sass-rails', '5.0.3'
 gem 'uglifier', '2.5.3'
